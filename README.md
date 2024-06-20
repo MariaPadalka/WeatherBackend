@@ -29,7 +29,7 @@ This is the server-side component of a weather application that provides weather
 
    ```bash
    git clone https://github.com/MariaPadalka/WeatherBackend.git
-   cd weather-app-server
+   cd WeatherBackend
    ```
 
 2. **Environment Variables**:
