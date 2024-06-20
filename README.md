@@ -77,5 +77,5 @@ This is the server-side component of a weather application that provides weather
 To start the server, run:
 
 ```bash
-npm start
+node server.js
 ```
